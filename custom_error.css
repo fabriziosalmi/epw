@@ -1,0 +1,30 @@
+.elite-custom-error-background-image {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+
+.elite-custom-error-logo-image {
+    height: 10rem;
+    width: 50rem;
+    position: absolute;
+    top: 5rem;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+.elite-custom-error-title {
+    position: absolute;
+    top: 20rem;
+    left: 0;
+    right: 0;
+    margin: auto;
+    font-size: 3rem;
+    color: #fff;
+}
+
+.elite-custom-error-container {
+    text-align: center;
+    position: relative;
+}
